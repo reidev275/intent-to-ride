@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: center;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+
+.Nav {
+  max-width: calc(100% / 4);
+  margin-right: 80px; 
+}
+

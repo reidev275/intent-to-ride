@@ -1,0 +1,28 @@
+body {
+  background-color: #efefef;
+  font-family: 'Lato';
+  margin:0;
+  padding:0;
+  color: #010626;
+  color: #042959;
+  box-sizing:border-box;
+  font-size:18px;
+  letter-spacing:.05em;
+  text-rendering: optimizeLegibility;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Montserrat'
+}
+
+a {
+  color: #010626;
+  font-weight: 600;
+}
+
+/* Color Theme Swatches in Hex */
+.Fashion-1-hex { color: #010626; }
+.Fashion-2-hex { color: #042959; }
+.Fashion-3-hex { color: #0F6CA6; }
+.Fashion-4-hex { color: #24BF93; }
+.Fashion-5-hex { color: #73D9A9; }
